@@ -1,4 +1,4 @@
 # crwal_kreport
 
-### chromedirver path
+### chromedriver path
 '../webdriver/chromedriver'
